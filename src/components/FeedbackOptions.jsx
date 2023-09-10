@@ -22,6 +22,6 @@ FeedbackOptions.propTypes = {
     onLeaveFeedback: PropTypes.func.isRequired,
 }
 
-{/* <button type='button' onClick={onLeaveFeedback} name='good'>Good</button>
-            <button type='button' onClick={onLeaveFeedback} name='neutral'>Neutral</button>
-            <button type='button' onClick={onLeaveFeedback} name='bad'>Bad</button> */}
+// {/* <button type='button' onClick={onLeaveFeedback} name='good'>Good</button>
+//             <button type='button' onClick={onLeaveFeedback} name='neutral'>Neutral</button>
+//             <button type='button' onClick={onLeaveFeedback} name='bad'>Bad</button> */}
